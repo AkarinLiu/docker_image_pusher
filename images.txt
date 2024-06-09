@@ -16,6 +16,9 @@ jellyfin/jellyfin
 registry
 nginx
 php
+php:fpm
+php:7.4-apache
+php:7.4-fpm
 python
 rust
 nodejs
