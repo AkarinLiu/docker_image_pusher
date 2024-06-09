@@ -4,7 +4,7 @@ fedora
 archlinux
 wordpress
 nextcloud
-seafile
+seafile/seafile
 yourls/yourls
 gitea/gitea
 halohub/halo
