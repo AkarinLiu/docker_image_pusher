@@ -27,5 +27,5 @@ openresty/openresty
 mariadb
 mariadb:lts
 valkey/valkey
-postgresql
+postgres
 ghcr.io/open-webui/open-webui
