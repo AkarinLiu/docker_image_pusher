@@ -5,7 +5,7 @@ archlinux
 wordpress
 nextcloud
 seafileltd/seafile
-yourls/yourls
+yourls
 gitea/gitea
 halohub/halo
 ghcr.io/dani-garcia/vaultwarden
