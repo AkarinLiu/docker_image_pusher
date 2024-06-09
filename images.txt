@@ -9,6 +9,8 @@ yourls/yourls
 gitea/gitea
 halohub/halo
 ghcr.io/dani-garcia/vaultwarden
+itzg/minecraft-server
+itzg/minecraft-bedrock-server
 nginx
 php
 python
