@@ -26,5 +26,6 @@ nodejs:lts
 openresty/openresty
 mariadb
 mariadb:lts
+valkey/valkey
 postgresql
 ghcr.io/open-webui/open-webui
