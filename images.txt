@@ -11,6 +11,8 @@ halohub/halo
 ghcr.io/dani-garcia/vaultwarden
 itzg/minecraft-server
 itzg/minecraft-bedrock-server
+xhofe/alist
+jellyfin/jellyfin
 registry
 nginx
 php
