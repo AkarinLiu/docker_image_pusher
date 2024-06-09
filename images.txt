@@ -1,3 +1,10 @@
+debian
 alpine
-kasmweb/nginx:1.25.3
-python:alpine3.19
+wordpress
+nextcloud
+vaultwarden/server
+nginx
+php
+mariadb
+mariadb:lts
+openresty/openresty
