@@ -8,3 +8,4 @@ php
 mariadb
 mariadb:lts
 openresty/openresty
+ghcr.io/open-webui/open-webui
