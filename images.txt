@@ -2,7 +2,7 @@ debian
 alpine
 wordpress
 nextcloud
-vaultwarden/server
+ghcr.io/dani-garcia/vaultwarden
 nginx
 php
 mariadb
