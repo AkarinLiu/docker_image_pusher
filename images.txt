@@ -20,6 +20,8 @@ php:fpm
 php:7.4-apache
 php:7.4-fpm
 python
+python:3.11
+python:3.10
 rust
 node
 node:lts
