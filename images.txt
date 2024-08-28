@@ -6,4 +6,6 @@ php:fpm
 --platform=linux/arm64 php:fpm
 mariadb
 --platform=linux/arm64 mariadb
+wordpress
+--platform=linux/arm64 wordpress
 ghcr.io/open-webui/open-webui:main
